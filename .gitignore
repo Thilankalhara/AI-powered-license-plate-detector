@@ -1,0 +1,83 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Data
+*.csv
+!blacklist.csv
+*.log
+.yolov8/
+.EasyOCR/
+.cache/
+
+# Test Results
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Models & Data
+*.pt
+*.pth
+*.weights
+models/
+data/
+runs/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Temporary
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Videos & Images
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Detected Plates Output
+detected_plates/
+
+# Batch Files
+*.bat
+*.sh
+
+# Documentation drafts
+*.md
+!README.md
+!LICENSE
