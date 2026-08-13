@@ -111,7 +111,7 @@ def main():
     
     print("\n" + "=" * 50)
     print("✅ Setup complete! You can now run:")
-    print("   python main.py")
+    print("   python professional_app.py")
     print("=" * 50)
 
 
