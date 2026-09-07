@@ -17,8 +17,8 @@ AI-powered license plate detection and blacklist matching system with live video
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/license-plate-detector.git
-cd license-plate-detector
+git clone https://github.com/Thilankalhara/AI-powered-license-plate-detector.git
+cd AI-powered-license-plate-detector
 
 # Create virtual environment
 python -m venv venv
@@ -32,6 +32,10 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+## Screenshot
+
+![License Plate Detector application](screenshots/ipd.png)
 
 ## Usage
 
