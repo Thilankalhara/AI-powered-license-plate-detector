@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Screenshot
 
-![License Plate Detector application](screenshots/ipd.png)
+![License Plate Detector application](screenshots/ipd.PNG)
 
 ## Usage
 
